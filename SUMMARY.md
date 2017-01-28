@@ -1,17 +1,17 @@
 # Summary
 
 * [Introduction](README.md)
-* HTML
-* CSS
-* SVG
-* JavaScript
-  * JSON
-* REST
-* SOAP
+* [HTML](html.md)
+* [CSS](css.md)
+* [SVG](svg.md)
+* [JavaScript](javascript.md)
+  * [JSON](javascript/json.md)
+* [REST](rest.md)
+* [SOAP](soap.md)
 * [WordPress](wordpress.md)
   * [WordPress Snippets](wordpress/wordpress-snippets.md)
-* Performance
+* [Performance](performance.md)
 * [ReactJS](reactjs.md)
-* Performance
-* SVG
+* [Performance](performance.md)
+* [SVG](svg.md)
 
